@@ -2,7 +2,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://HardikJoshi304.github.io/H_Portfolio",
+    "homepage": "https://HardikJoshi304.github.io/HPortfolio",
     "dependencies": {
       "bootstrap": "^5.2.3",
       "emailjs-com": "^3.2.0",
