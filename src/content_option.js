@@ -42,7 +42,7 @@ const skills = [{
         value: 70,
     },
     {
-        name: "Tailwind",
+        name: "Tailwind CSS",
         value: 80,
     },
 ];
